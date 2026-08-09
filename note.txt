@@ -1,3 +1,4 @@
 Hello Git
 I am learning Git
 GitHub stores my commits
+This line was added on GitHub
